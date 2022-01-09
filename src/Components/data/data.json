@@ -1,0 +1,233 @@
+{
+	"material": [
+	{
+		"id": 0,
+		"bezeichnung": "Dienstwagen 1",
+		"art": "Fahrzeug",
+		"buchungen": [
+			{
+				"von": 1641884400000,
+				"bis": 1641920400000
+			}
+		]
+	},
+	{
+		"id": 1,
+		"bezeichnung": "Konferenzraum 1",
+		"art": "Raum",
+		"buchungen": []
+	},
+	{
+		"id": 2,
+		"bezeichnung": "Konferenzraum 2",
+		"art": "Raum",
+		"buchungen": [
+			{
+				"von": 1641884400000,
+				"bis": 1641920400000
+			}
+		]
+	},
+	{
+		"id": 3,
+		"bezeichnung": "Dienstwagen 2",
+		"art": "Fahrzeug",
+		"buchungen": []
+	},
+	{
+		"id": 4,
+		"bezeichnung": "Dienstwagen 3",
+		"art": "Fahrzeug",
+		"buchungen": []
+	},
+	{
+		"id": 5,
+		"bezeichnung": "Dienstwagen 4",
+		"art": "Fahrzeug",
+		"buchungen": [{
+			"von": 1641884400000,
+			"bis": 1641920400000
+		}]
+	},
+	{
+		"id": 6,
+		"bezeichnung": "Projektor 1",
+		"art": "Beamer",
+		"buchungen": [{
+			"von": 1641884400000,
+			"bis": 1641920400000
+		}]
+	},
+	{
+		"id": 7,
+		"bezeichnung": "Projektor 2",
+		"art": "Beamer",
+		"buchungen": []
+	},
+	{
+		"id": 8,
+		"bezeichnung": "Dienstwagen 5",
+		"art": "Fahrzeug",
+		"buchungen": [{
+			"von": 1641884400000,
+			"bis": 1641920400000
+		}]
+	},
+	{
+		"id": 9,
+		"bezeichnung": "Konferenzraum 3",
+		"art": "Raum",
+		"buchungen": [{
+			"von": 1641884400000,
+			"bis": 1641920400000
+		}]
+	},
+	{
+		"id": 10,
+		"bezeichnung": "Projektor 3",
+		"art": "Beamer",
+		"buchungen": [{
+			"von": 1641884400000,
+			"bis": 1641920400000
+		}]
+	},
+	{
+		"id": 11,
+		"bezeichnung": "Konferenzraum 4",
+		"art": "Raum",
+		"buchungen": [{
+			"von": 1641884400000,
+			"bis": 1641920400000
+		}]
+	},
+	{
+		"id": 12,
+		"bezeichnung": "Dienstwagen 6",
+		"art": "Fahrzeug",
+		"buchungen": [{
+			"von": 1641884400000,
+			"bis": 1641920400000
+		}]
+	},
+	{
+		"id": 13,
+		"bezeichnung": "Konferenzraum 5",
+		"art": "Raum",
+		"buchungen": [{
+			"von": 1641884400000,
+			"bis": 1641920400000
+		}]
+	},
+	{
+		"id": 14,
+		"bezeichnung": "Projektor 4",
+		"art": "Beamer",
+		"buchungen": [{
+			"von": 1641884400000,
+			"bis": 1641920400000
+		}]
+	},
+	{
+		"id": 15,
+		"bezeichnung": "Konferenzraum 6",
+		"art": "Raum",
+		"buchungen": [{
+			"von": 1641884400000,
+			"bis": 1641920400000
+		}]
+	},
+	{
+		"id": 16,
+		"bezeichnung": "Dienstwagen 7",
+		"art": "Fahrzeug",
+		"buchungen": [{
+			"von": 1641884400000,
+			"bis": 1641920400000
+		}]
+	},
+	{
+		"id": 17,
+		"bezeichnung": "Konferenzraum 7",
+		"art": "Raum",
+		"buchungen": [{
+			"von": 1641884400000,
+			"bis": 1641920400000
+		}]
+	},
+	{
+		"id": 18,
+		"bezeichnung": "Konferenzraum 8",
+		"art": "Raum",
+		"buchungen": [{
+			"von": 1641884400000,
+			"bis": 1641920400000
+		}]
+	},
+	{
+		"id": 19,
+		"bezeichnung": "Dienstwagen 8",
+		"art": "Fahrzeug",
+		"buchungen": []
+	},
+	{
+		"id": 20,
+		"bezeichnung": "Projektor 5",
+		"art": "Beamer",
+		"buchungen": []
+	},
+	{
+		"id": 21,
+		"bezeichnung": "Projektor 6",
+		"art": "Beamer",
+		"buchungen": []
+	},
+	{
+		"id": 22,
+		"bezeichnung": "Konferenzraum 9",
+		"art": "Raum",
+		"buchungen": []
+	},
+	{
+		"id": 23,
+		"bezeichnung": "Konferenzraum 10",
+		"art": "Raum",
+		"buchungen": []
+	},
+	{
+		"id": 24,
+		"bezeichnung": "Kreativraum 1",
+		"art": "Raum",
+		"buchungen": []
+	},
+	{
+		"id": 25,
+		"bezeichnung": "Dienstwagen 9",
+		"art": "Fahrzeug",
+		"buchungen": []
+	},
+	{
+		"id": 26,
+		"bezeichnung": "Dienstwagen 10",
+		"art": "Fahrzeug",
+		"buchungen": []
+	},
+	{
+		"id": 27,
+		"bezeichnung": "Projektor 7",
+		"art": "Beamer",
+		"buchungen": []
+	},
+	{
+		"id": 28,
+		"bezeichnung": "Kreativraum 2",
+		"art": "Raum",
+		"buchungen": []
+	},
+	{
+		"id": 29,
+		"bezeichnung": "Kreativraum 3",
+		"art": "Raum",
+		"buchungen": []
+	}
+	]
+}
